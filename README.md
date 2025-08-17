@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Ishan</h1>
-
+![Profile views](https://komarev.com/ghpvc/?username=Ishan-Kanishka)
 # 💫 About Me:
 I am a passionate developer exploring various programming languages and technologies, with experience in game development, web applications, and scripting. I love building new things and constantly learning.
 
@@ -69,5 +69,5 @@ I enjoy sharing my work and collaborating on open-source projects. Feel free to 
 # Git Stats
 ![Ishan-Kanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan-Kanishka&show_icons=true)
 
-# Views (Github)
-![Profile views](https://komarev.com/ghpvc/?username=Ishan-Kanishka)
+
+
