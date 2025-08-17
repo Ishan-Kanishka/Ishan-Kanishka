@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Ishan Kanishka</h1>
+<h1 align="center">Hey, I'm Ishan</h1>
 
 # 💫 About Me:
 I am a passionate developer exploring various programming languages and technologies, with experience in game development, web applications, and scripting. I love building new things and constantly learning.
@@ -63,3 +63,8 @@ I enjoy sharing my work and collaborating on open-source projects. Feel free to 
 ---
 
 <!-- Feel free to add more personal details or fun facts! -->
+# Used languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Kanishka&layout=compact)
+
+# Git Stats
+![Ishan-Kanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan-Kanishka&show_icons=true)
