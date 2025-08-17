@@ -68,3 +68,6 @@ I enjoy sharing my work and collaborating on open-source projects. Feel free to 
 
 # Git Stats
 ![Ishan-Kanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan-Kanishka&show_icons=true)
+
+# Views (Github)
+![Profile views](https://komarev.com/ghpvc/?username=Ishan-Kanishka)
