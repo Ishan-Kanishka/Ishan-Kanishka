@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Ishan</h1>
-![Profile views](https://komarev.com/ghpvc/?username=Ishan-Kanishka)
+
 # 💫 About Me:
 I am a passionate developer exploring various programming languages and technologies, with experience in game development, web applications, and scripting. I love building new things and constantly learning.
-
+![Profile views](https://komarev.com/ghpvc/?username=Ishan-Kanishka)
 ## 🚀 What I'm Up To
 
 - 🎮 Building games and projects using Lua and Java
