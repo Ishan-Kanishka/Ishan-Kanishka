@@ -21,7 +21,9 @@ I enjoy sharing my work and collaborating on open-source projects. Feel free to 
 ## 🌐 Connect with me:
 <!-- Add your own LinkedIn, email, or other social links here if you have them! -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-kanishka-9269a4274/)
+<a href="https://www.linkedin.com/in/ishan-kanishka-9269a4274/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 
 # 💻 Tech Stack:
