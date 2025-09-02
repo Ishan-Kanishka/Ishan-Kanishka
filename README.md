@@ -5,9 +5,9 @@ I am a passionate developer exploring various programming languages and technolo
 ![Profile views](https://komarev.com/ghpvc/?username=Ishan-Kanishka)
 ## 🚀 What I'm Up To
 
-- 🎮 Building games and projects using Lua and Java
+- 🎮 Building things that can make our life easier
 - 🌐 Developing web applications with JavaScript, HTML, CSS, and TypeScript
-- 📝 Experimenting with new ideas and learning about software development
+- 📝 Experimenting with new ideas and learning about software development, Project Management, Data analysis, Embedded Systems and Networking.
 
 ## 🎓 About Me
 
@@ -15,13 +15,13 @@ I enjoy sharing my work and collaborating on open-source projects. Feel free to 
 
 <!-- Add your own social or portfolio links below if available -->
 <!-- Example:
-- [Portfolio](https://your-portfolio-link.com)
+- [Portfolio](- [Portfolio](https://ishan-kanishka.github.io/))
 -->
 
 ## 🌐 Connect with me:
 <!-- Add your own LinkedIn, email, or other social links here if you have them! -->
 <!-- Example:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-kanishka-9269a4274/)
 -->
 
 # 💻 Tech Stack:
@@ -55,11 +55,12 @@ I enjoy sharing my work and collaborating on open-source projects. Feel free to 
 
 
 # 📂 Notable Projects:
+- [File Organizer](https://github.com/Ishan-Kanishka/file-organizer) - A professional desktop application for automatically organizing files by type using Electron
 - [TextEditor](https://github.com/Ishan-Kanishka/TextEditor) - A Java-based text editor
 - [FantacyWorld](https://github.com/Ishan-Kanishka/FantacyWorld) - Game development in Lua
 - [reminder](https://github.com/Ishan-Kanishka/reminder) - Web app with JavaScript and HTML
 - [LearningAboutAutoMobile](https://github.com/Ishan-Kanishka/LearningAboutAutoMobile) - Web and Java project
-- [game-app](https://github.com/Ishan-Kanishka/game-app) - Game with HTML, TypeScript, CSS
+- [game-app](https://ishan-kanishka.github.io/game-app/) - Game using Angular, TypeScript, CSS
 
 ---
 
