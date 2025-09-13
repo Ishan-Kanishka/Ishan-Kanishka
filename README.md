@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 I am a passionate developer exploring various programming languages and technologies, with experience in game development, web applications, and scripting. I love building new things and constantly learning.
-![Profile views](https://komarev.com/ghpvc/?username=Ishan-Kanishka)
+
 ## 🚀 What I'm Up To
 
 - 🎮 Building things that can make our life easier
@@ -20,6 +20,7 @@ I enjoy sharing my work and collaborating on open-source projects. Feel free to 
 
 ## 🌐 Connect with me:
 <!-- Add your own LinkedIn, email, or other social links here if you have them! -->
+![GitHUb Profile views](https://komarev.com/ghpvc/?username=Ishan-Kanishka)
 
 <a href="https://www.linkedin.com/in/ishan-kanishka-9269a4274/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
