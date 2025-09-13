@@ -22,6 +22,7 @@ I enjoy sharing my work and collaborating on open-source projects. Feel free to 
 <!-- Add your own LinkedIn, email, or other social links here if you have them! -->
 
 <a href="https://www.linkedin.com/in/ishan-kanishka-9269a4274/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
