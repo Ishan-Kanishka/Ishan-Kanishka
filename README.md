@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ishan</h1>
 
 # 💫 About Me:
-I am a passionate developer exploring various programming languages and technologies, with experience in game development, web applications, and scripting. I love building new things and constantly learning.
+I am a passionate learner exploring various programming languages and technologies, with experience in  web applications, and embedded systems. I love building new things and constantly learning.
 
 ## 🚀 What I'm Up To
 
@@ -12,6 +12,7 @@ I am a passionate developer exploring various programming languages and technolo
 ## 🎓 About Me
 
 I enjoy sharing my work and collaborating on open-source projects. Feel free to explore my repositories!
+I like to travel. But I have never travelled before.
 
 <!-- Add your own social or portfolio links below if available -->
 <!-- Example:
