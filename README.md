@@ -10,7 +10,7 @@ I am a passionate learner exploring various programming languages and technologi
 - 📝 Experimenting with new ideas and learning about software development, Project Management, Data analysis, Embedded Systems and Networking.
 
 ## 🎓 About Me
-
+I try to live life normally without thinking what others do
 I enjoy sharing my work and collaborating on open-source projects. Feel free to explore my repositories!
 I like to travel. But I have never travelled before.
 
