@@ -5,8 +5,8 @@ I am a passionate learner exploring various programming languages and technologi
 
 ## 🚀 What I'm Up To
 
-- 🎮 Building things that can make our life easier
-- 🌐 Developing web applications with JavaScript, HTML, CSS, and TypeScript
+- 🎮 Building things that can make our life easier.
+- 🌐 Developing web applications with JavaScript, HTML, CSS, and TypeScript.
 - 📝 Experimenting with new ideas and learning about software development, Project Management, Data analysis, Embedded Systems and Networking.
 
 ## 🎓 About Me
