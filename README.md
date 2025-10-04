@@ -1,12 +1,12 @@
 <h1 align="center">Hey, I'm Ishan</h1>
 
 # 💫 About Me:
-I am a passionate learner exploring various programming languages and technologies, with experience in  web applications, and embedded systems. I love building new things and constantly learning.
+I live life normally and try to learn new things sometimes.
 
 ## 🚀 What I'm Up To
 
-- 🎮 Building things that can make our life easier.
-- 🌐 Developing web applications with JavaScript, HTML, CSS, and TypeScript.
+- 🎮 Learning Flask.
+- 🌐 Learning APIs.
 - 📝 Experimenting with new ideas and learning about software development, Project Management, Data analysis, Embedded Systems and Networking.
 
 ## 🎓 About Me
