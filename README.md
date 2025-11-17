@@ -5,9 +5,7 @@ I live life normally and try to learn new things sometimes.
 
 ## 🚀 What I'm Up To
 
-- 🎮 Learning Flask.
-- 🌐 Learning APIs.
-- 📝 Experimenting with new ideas and learning about software development, Project Management, Data analysis, Embedded Systems and Networking.
+- 📝  learning about software development, Project Management, Data analysis, and  Supply Chain Management.
 
 ## 🎓 About Me
 - I try to live life normally without thinking what others do(Yes, I did forget the period in that sentence idc)
