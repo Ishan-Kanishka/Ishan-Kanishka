@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ishan</h1>
+<h1 align="center">Hey, I'm Ishan Kanishka (一个强壮的男人)</h1>
 
 # 💫 About Me:
 I live life normally and try to learn new things sometimes.
