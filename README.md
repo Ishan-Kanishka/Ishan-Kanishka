@@ -3,7 +3,7 @@
 # 💫 About Me:
 I live life normally and try to learn new things sometimes.
 
-## 🚀 What I'm Up To
+## 🚀 What I'm interested in 
 
 - 📝  Interested in software development, Project Management, Data analysis, and  Supply Chain Management.
 
