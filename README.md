@@ -60,7 +60,7 @@ I live life normally and try to learn new things sometimes.
 
 # 📂 Notable Projects:
 - [File Organizer](https://github.com/Ishan-Kanishka/file-organizer) - A professional desktop application for automatically organizing files by type using Electron
-- [TextEditor](https://github.com/Ishan-Kanishka/TextEditor) - A Java-based text editor
+- [TextEditor](https://ishan-kanishka.github.io/kalpaenterprises/products.html) - A static web app of a business 
 - [FantacyWorld](https://github.com/Ishan-Kanishka/FantacyWorld) - Game development in Lua
 - [reminder](https://github.com/Ishan-Kanishka/reminder) - Web app with JavaScript and HTML
 - [LearningAboutAutoMobile](https://github.com/Ishan-Kanishka/LearningAboutAutoMobile) - Web and Java project
