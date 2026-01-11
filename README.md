@@ -1,4 +1,4 @@
-![supply_chain_banner](https://github.com/user-attachments/assets/56980c4f-65a5-43b7-a545-28e28b0bd939)<h1 align="center">Hey, I'm Ishan Kanishka (一个强壮的男人)</h1>
+Hey, I'm Ishan Kanishka (一个强壮的男人)</h1>
 
 
 # 💫 About Me:
