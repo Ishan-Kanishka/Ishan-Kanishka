@@ -69,10 +69,5 @@ I live life normally and try to learn new things sometimes.
 ---
 
 <!-- Feel free to add more personal details or fun facts! -->
-# Used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Kanishka&layout=compact)
-
-# Git Stats
-![Ishan-Kanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan-Kanishka&show_icons=true)
 
 
