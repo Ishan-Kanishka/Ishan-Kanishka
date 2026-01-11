@@ -75,7 +75,4 @@ I live life normally and try to learn new things sometimes.
 # Git Stats
 ![Ishan-Kanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan-Kanishka&show_icons=true)
 
- ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishan-Kanishka&theme=default) Markdown: ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishan-Kanishka&theme=default)
-
- ![Git Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishan-Kanishka&theme=default) Markdown: ![Git Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishan-Kanishka&theme=default)
 
