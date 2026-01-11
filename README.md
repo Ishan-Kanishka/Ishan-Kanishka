@@ -1,6 +1,11 @@
 <div align="center">
+<!-- Supply Chain Banner SVG -->
+<div align="center">
 
-![supply_chain_banner](https://github.com/user-attachments/assets/2be5507e-94ab-4218-8b3a-c0d1b49e29fd)
+<img src="https://raw.githubusercontent.com/Ishan-Kanishka/Ishan-Kanishka/main/.github/supply-chain-banner.svg" alt="Supply Chain Banner" width="100%" style="max-width: 1920px; height: auto;" />
+
+</div>
+
 
 # Hey, I'm Ishan Kanishka (一个强壮的男人) 👋
 
@@ -9,12 +14,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Data+Analyst;Supply+Chain+Enthusiast" alt="Typing SVG" />
 </div>
 
-<!-- Supply Chain Banner SVG -->
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/Ishan-Kanishka/Ishan-Kanishka/main/.github/supply-chain-banner.svg" alt="Supply Chain Banner" width="100%" style="max-width: 1920px; height: auto;" />
-
-</div>
 
 
   </defs>
