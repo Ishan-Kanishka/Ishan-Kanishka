@@ -12,6 +12,9 @@ I live life normally and try to learn new things sometimes.
 - I enjoy sharing my work and collaborating on open-source projects. Feel free to explore my repositories!
 - I like to travel. But I have never travelled before.
 
+- NEVER SMART AND NEVER WILL BE SMART (BUILDING MY LIFE FROM GROUND UP)
+## 绝不聪明
+
 <!-- Add your own social or portfolio links below if available -->
 <!-- Example:
 - [Portfolio](- [Portfolio](https://ishan-kanishka.github.io/))
