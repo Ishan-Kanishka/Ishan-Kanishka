@@ -1,4 +1,6 @@
-![supply_chain_banner](https://github.com/user-attachments/assets/2be5507e-94ab-4218-8b3a-c0d1b49e29fd)<div align="center">
+<div align="center">
+
+![supply_chain_banner](https://github.com/user-attachments/assets/2be5507e-94ab-4218-8b3a-c0d1b49e29fd)
 
 # Hey, I'm Ishan Kanishka (一个强壮的男人) 👋
 
@@ -6,7 +8,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Data+Analyst;Supply+Chain+Enthusiast" alt="Typing SVG" />
 </div>
-![Uploading supply_ch<svg viewBox="0 0 1920 400" xmlns="http://www.w3.org/2000/svg">
+
+<!-- Supply Chain Banner SVG -->
+<div align="center">
+
+<svg viewBox="0 0 1920 400" xmlns="http://www.w3.org/2000/svg">
   <!-- Background gradient -->
   <defs>
     <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -195,7 +201,9 @@
   
   <!-- Decorative accent line -->
   <rect x="710" y="205" width="500" height="2" fill="url(#accentGradient)" opacity="0.4" rx="1"/>
-</svg>ain_banner.svg…]()
+</svg>
+
+</div>
 
 <!-- Animated Supply Chain Icons -->
 <div align="center" style="margin: 20px 0;">
