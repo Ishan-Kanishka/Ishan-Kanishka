@@ -224,7 +224,7 @@ Game using Angular, TypeScript, CSS
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/Ishan-Kanishka/count.svg)
+
 
 **Thanks for visiting! Feel free to explore my repositories!** ⭐
 
