@@ -16,34 +16,7 @@
 
 </div>
 
-<!-- Animated Supply Chain Icons -->
-<div align="center" style="margin: 20px 0;">
-  
-<svg width="600" height="150" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      .container { animation: moveContainer 8s linear infinite; }
-      .ship { animation: moveShip 10s linear infinite; }
-      .plane { animation: movePlane 6s linear infinite; }
-      @keyframes moveContainer {
-        0% { transform: translateX(-50px); opacity: 0; }
-        10% { opacity: 1; }
-        90% { opacity: 1; }
-        100% { transform: translateX(650px); opacity: 0; }
-      }
-      @keyframes moveShip {
-        0% { transform: translateX(-80px) translateY(5px); opacity: 0; }
-        15% { opacity: 1; }
-        85% { opacity: 1; }
-        100% { transform: translateX(680px) translateY(5px); opacity: 0; }
-      }
-      @keyframes movePlane {
-        0% { transform: translateX(-100px) translateY(-10px) rotate(-3deg); opacity: 0; }
-        20% { opacity: 1; }
-        80% { opacity: 1; }
-        100% { transform: translateX(700px) translateY(-10px) rotate(3deg); opacity: 0; }
-      }
-    </style>
+
   </defs>
   
   <!-- Container -->
