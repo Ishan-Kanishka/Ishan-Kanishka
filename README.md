@@ -201,27 +201,13 @@ Game using Angular, TypeScript, CSS
 
 ---
 
-<div align="center">
 
-### 📊 GitHub Stats
-
-![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan-Kanishka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Kanishka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Ishan-Kanishka&theme=radical&hide_border=true&background=0D1117)
-
-</div>
 
 ---
 
 <div align="center">
 
-### 🚢 Supply Chain Flow
 
-```
-  📦 Container → 🚢 Ship → 🏭 Harbor → ✈️ Flight → 📦 Delivery
-```
 
 <div align="center">
   
