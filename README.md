@@ -7,7 +7,7 @@
 </div>
 
 
-# Hey, I'm Ishan Kanishka (一个强壮的男人) 👋
+# Hey, I'm Ishan Kanishka (一个强壮的男人) 
 
 <!-- Supply Chain Animation Header -->
 <div align="center">
