@@ -76,7 +76,7 @@ I live life normally and try to learn new things sometimes.
 
 <div align="center">
 
-## 🚀 What I'm interested in 
+## 🚀 What I'm interested in .......
 
 - 📝  Interested in software development, Project Management, Data analysis, and Supply Chain Management.
 
