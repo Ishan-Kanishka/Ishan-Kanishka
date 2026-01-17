@@ -23,7 +23,7 @@ I live life normally and try to learn new things sometimes.
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## 🚀 What I'm interested in
 - 📝 Software development, Project Management, Data analysis, and Supply Chain Management
@@ -32,7 +32,7 @@ I live life normally and try to learn new things sometimes.
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## 🎓 About Me
 - I try to live life normally without thinking what others do (Yes, I did forget the period in that sentence — idc)
@@ -45,7 +45,7 @@ I live life normally and try to learn new things sometimes.
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## 🌐 Connect with me
 
@@ -59,7 +59,7 @@ I live life normally and try to learn new things sometimes.
 
 ---
 
-<div align="center">
+<div align="left">
 
 # 💻 Tech Stack
 
