@@ -11,7 +11,8 @@
 
 <!-- Supply Chain Animation Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Software engineering+Intern;Supply+Chain+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Software
+    +Engineering+Intern;Supply+Chain+Enthusiast" alt="Typing SVG" />
 </div>
 
 
