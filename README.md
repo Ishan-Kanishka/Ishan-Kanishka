@@ -154,6 +154,6 @@ Game using Angular, TypeScript, CSS
 ![Project Management](https://img.shields.io/badge/Project-Management-green?style=for-the-badge&logo=trello&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-orange?style=for-the-badge&logo=chart-bar&logoColor=white)
 ![Software Dev](https://img.shields.io/badge/Software-Development-purple?style=for-the-badge&logo=code&logoColor=white)
-
+  
 **Thanks for visiting! Feel free to explore my repositories!** ⭐
 </div>
