@@ -150,10 +150,13 @@ Game using Angular, TypeScript, CSS
 ---
 
 <div align="center">
-![Supply Chain](https://img.shields.io/badge/Supply%20Chain-Management-blue?style=for-the-badge&logo=ship&logoColor=white)
-![Project Management](https://img.shields.io/badge/Project-Management-green?style=for-the-badge&logo=trello&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-orange?style=for-the-badge&logo=chart-bar&logoColor=white)
-![Software Dev](https://img.shields.io/badge/Software-Development-purple?style=for-the-badge&logo=code&logoColor=white)
+<img src="https://img.shields.io/badge/Supply%20Chain-Management-blue?style=for-the-badge&logo=ship&logoColor=white" alt="Supply Chain">
+<img src="https://img.shields.io/badge/Project-Management-green?style=for-the-badge&logo=trello&logoColor=white" alt="Project Management">
+<img src="https://img.shields.io/badge/Data-Analysis-orange?style=for-the-badge&logo=chart-bar&logoColor=white" alt="Data Analysis">
+<img src="https://img.shields.io/badge/Software-Development-purple?style=for-the-badge&logo=code&logoColor=white" alt="Software Dev">
   
-**Thanks for visiting! Feel free to explore my repositories!** ⭐
+<p><strong>Thanks for visiting! Feel free to explore my repositories!</strong> ⭐</p>
+</div>
+
+
 </div>
