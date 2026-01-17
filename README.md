@@ -2,7 +2,7 @@
 <!-- Supply Chain Banner SVG -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Software+Engineering+Intern;Supply+Chain+Operations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Software+Engineering+Intern;Supply+Chain+Operations"(https://raw.githubusercontent.com/Ishan-Kanishka/Ishan-Kanishka/main/.github/supply-chain-banner.svg) alt="Typing SVG" />
 
 </div>
 
