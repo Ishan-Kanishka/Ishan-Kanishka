@@ -1,6 +1,6 @@
 .
 
-# Hey, I'm Ishan Kanishka (一个强壮的男人)
+# Hey, I'm Ishan Kanishka (一个强壮的男人)....
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ishan-Kanishka/Ishan-Kanishka/main/.github/supply-chain-banner.svg" alt="Supply Chain Banner" />
