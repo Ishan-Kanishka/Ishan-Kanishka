@@ -37,7 +37,7 @@ I live life normally and try to learn new things sometimes.
 ## 🎓 About Me
 - I try to live life normally without thinking what others do (Yes, I did forget the period in that sentence — idc)
 - I enjoy sharing my work and collaborating on open-source projects. Feel free to explore my repositories!
-- I like to travel. But I have never travelled before.
+- I like to travel. But I have never travelled before(maybe soon).
 
 - **NEVER SMART AND NEVER WILL BE SMART (BUILDING MY LIFE FROM GROUND UP) 绝不聪明**
 
