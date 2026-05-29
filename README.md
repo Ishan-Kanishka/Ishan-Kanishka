@@ -26,7 +26,7 @@ I live life normally and try to learn new things sometimes.
 <div align="left">
 
 ## 🚀 What I'm interested in
-- 📝 Software development, Project Management, Data analysis, and Supply Chain Management
+- 📝 Supply Chain Management, Maritime operations, Project Management in SPM.
 
 </div>
 
