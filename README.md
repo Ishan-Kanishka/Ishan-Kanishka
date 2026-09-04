@@ -9,7 +9,7 @@
 
 <div align="center">
 
-## 👋 Hi, I'm Ishan Kanishka
+##  Hi, I'm Ishan Kanishka
 
 **Supply Chain Professional • Operations in Supply Chain • Project Management**
 
@@ -19,7 +19,7 @@ I have a strong interest in operations, maritime logistics, and using data and s
 
 ---
 
-## 🔎 About me
+## About me
 
 - Full-time supply chain job seeker with practical experience in operations and project coordination.
 - Background in software development and data analysis — I combine technical skills with logistics knowledge to solve real-world problems.
@@ -27,7 +27,7 @@ I have a strong interest in operations, maritime logistics, and using data and s
 
 ---
 
-## 🚀 What I do
+##  What I do
 
 - Supply chain & logistics planning
 - Maritime operations and port processes
@@ -37,7 +37,7 @@ I have a strong interest in operations, maritime logistics, and using data and s
 
 ---
 
-## 💡 Key highlights
+##  Key highlights
 
 - Currently focused on opportunities in supply chain operations and project roles.
 - Owner/operator of a small business — hands-on experience running day-to-day operations.
@@ -45,7 +45,7 @@ I have a strong interest in operations, maritime logistics, and using data and s
 
 ---
 
-## 💻 Tech & Tools
+##  Tech & Tools
 
 **Languages:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -55,17 +55,17 @@ I have a strong interest in operations, maritime logistics, and using data and s
 
 ---
 
-## 📂 Notable Projects
+##  Notable Projects
 
-- 🗂️ [File Organizer](https://github.com/Ishan-Kanishka/file-organizer) — Desktop app (Electron) to organize files automatically.
-- 🎮 [FantacyWorld](https://github.com/Ishan-Kanishka/FantacyWorld) — Game dev project in Lua.
-- ⏰ [reminder](https://github.com/Ishan-Kanishka/reminder) — Simple web reminder app (HTML/JS).
-- 🚗 [LearningAboutAutoMobile](https://github.com/Ishan-Kanishka/LearningAboutAutoMobile) — Web and Java learning project.
-- 🌐 [TextEditor / Business site](https://ishan-kanishka.github.io/kalpaenterprises/products.html) — Static site for my business.
+-  [File Organizer](https://github.com/Ishan-Kanishka/file-organizer) — Desktop app (Electron) to organize files automatically.
+-  [FantacyWorld](https://github.com/Ishan-Kanishka/FantacyWorld) — Game dev project in Lua.
+-  [reminder](https://github.com/Ishan-Kanishka/reminder) — Simple web reminder app (HTML/JS).
+-  [LearningAboutAutoMobile](https://github.com/Ishan-Kanishka/LearningAboutAutoMobile) — Web and Java learning project.
+-  [TextEditor / Business site](https://ishan-kanishka.github.io/kalpaenterprises/products.html) — Static site for my business.
 
 ---
 
-## 📫 Connect with me
+##  Connect with me
 
 ![GitHub Profile views](https://komarev.com/ghpvc/?username=Ishan-Kanishka)
 
