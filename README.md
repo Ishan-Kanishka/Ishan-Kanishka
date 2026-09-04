@@ -11,9 +11,9 @@
 
 ## 👋 Hi, I'm Ishan Kanishka
 
-**Supply Chain Professional • Maritime Operations • Project Management**
+**Supply Chain Professional • Operations in Supply Chain • Project Management**
 
-I'm a full-time supply chain job seeker and entrepreneur currently running my own business. I have a strong interest in operations, maritime logistics, and using data and software tools to improve processes.
+I have a strong interest in operations, maritime logistics, and using data and software tools to improve processes.
 
 </div>
 
