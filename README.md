@@ -1,4 +1,4 @@
-# Ishan Kanishka
+# V K Ishan Kanishka
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ishan-Kanishka/Ishan-Kanishka/main/.github/supply-chain-banner.svg" alt="Supply Chain Banner" width="100%"/>
