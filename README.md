@@ -23,7 +23,7 @@
 
 ---
 
-## 🌊 About Me
+##  About Me
 
 - 🚢 Full-time supply chain job seeker with hands-on experience in **operations, maritime logistics, and project coordination**.
 - 💻 Background in **software development and data analysis**, applied to real logistics and process problems — not just theory.
