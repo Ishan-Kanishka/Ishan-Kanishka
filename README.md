@@ -1,135 +1,259 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ishan-Kanishka/Ishan-Kanishka/main/.github/supply-chain-banner.svg" alt="Supply Chain Banner" width="100%"/>
-</div>
 
-<div align="center">
-                    
-# V K Ishan Kanishka          
+# V K Ishan Kanishka
 
-### Supply Chain & Maritime Operations · Project Management · Data-Driven Logistics
+### Supply Chain Operations · Logistics · Inventory · Data & Process Improvement
 
-<img src="https://img.shields.io/badge/Open%20to-Supply%20Chain%20%7C%20Operations%20%7C%20Project%20Roles-0B5394?style=for-the-badge&labelColor=0A3D62"/>
+**Supply Chain Professional | IT Undergraduate | Building Data-Driven Logistics Solutions**
 
-<a href="https://www.linkedin.com/in/ishan-kanishka-9269a4274/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/ishan-kanishka-9269a4274/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=Ishan-Kanishka&style=for-the-badge&color=0B5394&label=Profile+Views"/>
 
 </div>
 
-<br>
+---
 
-> I connect **operations, logistics, and software** — using data, spatial thinking, and process design to make supply chains move smarter, not just faster.
+## 👋 About Me
+
+I'm a supply chain and operations professional with hands-on experience in **warehouse operations, inventory management, logistics coordination, ERP systems, and process improvement**.
+
+Currently, I work with operations involving **3,000+ SKUs**, supporting inventory accuracy, receiving, storage, picking, dispatch, returns, and coordination across warehouse teams, sales representatives, transport providers, and other stakeholders.
+
+Alongside my supply chain experience, I'm completing a **BSc (Hons) in Information Technology**, which allows me to combine operational knowledge with **data analysis, databases, GIS, automation, and software tools**.
+
+My long-term goal is to build a career in **Supply Chain Management and Logistics**, particularly in roles where technology and data can improve real-world operations.
 
 ---
 
-##  About Me
+## 🚚 Supply Chain Experience
 
-- 🚢 Full-time supply chain job seeker with hands-on experience in **operations, maritime logistics, and project coordination**.
-- 💻 Background in **software development and data analysis**, applied to real logistics and process problems — not just theory.
-- 🗺️ Interested in the **spatial side of supply chains**: port processes, route/network thinking, and how location data shapes logistics decisions — an area where supply chain and GIS naturally overlap.
-- 🏪 Owner/operator of a small business — day-to-day experience with procurement, inventory, and operations under real constraints.
-- 🤝 Comfortable working across **procurement, warehousing, and transport** stakeholders to keep processes aligned.
+* 📦 Inventory operations involving **3,000+ SKUs**
+* 🏭 Warehouse operations & coordination
+* 👥 Coordination with **18+ warehouse staff**
+* 🚛 Receiving, storage, picking & dispatch
+* 📋 ERP-based inventory management
+* 🔎 Stock discrepancy investigation
+* ↩️ Returns & stock verification
+* 🚚 Transport & delivery coordination
+* 🤝 Cross-functional stakeholder coordination
+* 📊 Operational reporting & documentation
 
 ---
 
-## 🎯 Focus Areas
+## 🎯 Areas of Interest
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-### 🚛 Supply Chain & Ops
-- End-to-end logistics planning
-- Maritime & port operations
-- Inventory & warehouse coordination
-- Process improvement (lean thinking)
+### 🚛 Supply Chain
+
+* Inventory Management
+* Warehouse Operations
+* Logistics Coordination
+* Procurement
+* Transport Operations
+* Supply Chain Planning
+* Process Improvement
 
 </td>
+
 <td width="33%" valign="top">
 
-### 🗺️ Spatial & Location Thinking
-- Route & network-level reasoning
-- Port/terminal process mapping
-- Interest in GIS tools (QGIS / ArcGIS) for logistics visualization
-- Location-aware data analysis
+### 📊 Supply Chain Analytics
+
+* Power BI
+* Microsoft Excel
+* SQL
+* Python
+* KPI Analysis
+* Inventory Analysis
+* Operational Dashboards
 
 </td>
+
 <td width="33%" valign="top">
 
-### 📊 Data & Automation
-- Python & SQL for data analysis
-- Workflow automation & tooling
-- Small apps to remove manual work
-- Project management (SPM)
+### 🗺️ GIS & Logistics
+
+* QGIS
+* PostGIS
+* Location Analysis
+* Logistics Mapping
+* Route Analysis
+* Field Data Collection
+* Spatial Decision Support
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech & Tools
+# 🚀 Supply Chain & Logistics Projects
 
-**Languages**
+## 🗺️ ReliefMap — Humanitarian Logistics & GIS
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+**PostgreSQL · PostGIS · QGIS · Python · KoboToolbox**
 
-**Data & Databases**
+A GIS-based information management project designed around a simulated **Sri Lankan flood-response operation**.
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+The system demonstrates how field information can move through a structured workflow:
 
-**Platforms & Tools**
+**Field Data Collection → ETL → PostgreSQL/PostGIS → QA/QC → GIS Analysis → Operational Decision Support**
 
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+### What it demonstrates
 
-**Spatial tools I'm building toward** *(actively exploring for logistics/GIS crossover work)*
-
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white"/>
+* Field data collection
+* PostgreSQL database design
+* PostGIS spatial data
+* Python ETL pipelines
+* Data quality checks
+* QGIS mapping
+* Operational prioritization
+* Location-based decision making
 
 ---
 
-## 🚀 Notable Projects
+## 📊 Inventory Failure Analysis — Power BI
 
-| Project | Description |
-|---|---|
-| 🗂️ [**File Organizer**](https://github.com/Ishan-Kanishka/file-organizer) | Desktop app (Electron) that automatically sorts and organizes files — built to remove repetitive manual work, the same instinct I bring to process automation in operations. |
-| 🎮 [**FantacyWorld**](https://github.com/Ishan-Kanishka/FantacyWorld) | Game development project in Lua — systems thinking and state management outside of work contexts. |
-| ⏰ [**Reminder**](https://github.com/Ishan-Kanishka/reminder) | Simple web reminder app (HTML/JS) for lightweight task tracking. |
-| 🚗 [**LearningAboutAutoMobile**](https://github.com/Ishan-Kanishka/LearningAboutAutoMobile) | Web and Java learning project exploring automotive-domain data. |
-| 🏬 [**Kalpa Enterprises**](https://ishan-kanishka.github.io/kalpaenterprises/products.html) | Static business site built and maintained for my own small business. |
+**Power BI · Excel · Data Analysis**
+
+Supply chain analytics project exploring inventory performance and the operational causes behind inventory failures.
+
+### Focus
+
+* Inventory KPIs
+* Stock performance
+* Failure causes
+* Operational trends
+* Dashboard design
+* Data-driven decision making
+
+---
+
+## 🚛 Transport Management System
+
+**Java · Spring Boot · MySQL · JPA**
+
+Transport-management application designed around logistics operations.
+
+### Core concepts
+
+* Vehicle management
+* Driver management
+* Transport bookings
+* Container / vehicle types
+* Customer management
+* Pricing
+* Operational data management
+
+This project connects my **IT background with my interest in transport and logistics operations**.
+
+---
+
+## ⚙️ File Organizer — Workflow Automation
+
+**Electron · JavaScript**
+
+Desktop application that automatically organizes files based on defined rules.
+
+Although simple, the project reflects something I strongly value in operations:
+
+> **If a repetitive process can be standardized and automated, it probably should be.**
+
+---
+
+## 🏪 Small Business Operations
+
+I also have hands-on exposure to running a small business, including:
+
+* Procurement
+* Inventory handling
+* Supplier coordination
+* Product management
+* Day-to-day operations
+* Customer requirements
+
+This gives me experience looking at supply chains from both an **operational employee perspective and a small-business perspective**.
+
+---
+
+# 🛠️ Tools
+
+### Supply Chain & Analytics
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+### GIS & Databases
+
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### Programming & Automation
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+
+---
+
+## 🧠 What I'm Currently Learning
+
+I'm continuing to develop skills at the intersection of:
+
+**Supply Chain + Data + GIS + Technology**
+
+Current areas of focus include:
+
+`Supply Chain Analytics` · `Power BI` · `Advanced Excel` · `GIS` · `PostGIS` · `SQL` · `Logistics Process Improvement`
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishan-Kanishka&show_icons=true&theme=tokyonight&title_color=0B5394&icon_color=0B5394&text_color=333333&border_color=0B5394" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan-Kanishka&theme=tokyonight&background=FFFFFF00&border=0B5394&ring=0B5394&fire=0B5394&currStreakLabel=0B5394" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ishan-Kanishka&show_icons=true&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Kanishka&layout=compact&hide_border=true" width="40%"/>
+
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🌍 Career Direction
 
-I'm actively looking for roles in **supply chain operations, maritime logistics, and project coordination** — especially where data, process design, or spatial/location analysis add value.
+I'm interested in opportunities involving:
+
+**Supply Chain Operations · Logistics · Warehouse Operations · Inventory Management · Procurement · Transport · Supply Chain Analytics · Project Coordination**
+
+I'm particularly interested in organizations where I can combine **hands-on operational experience with technology and data** to improve how supply chains work.
+
+---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ishan-kanishka-9269a4274/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+### 🤝 Let's Connect
+
+I'm always interested in connecting with professionals working in **supply chain, logistics, transportation, maritime operations, GIS, and operations technology**.
+
+<a href="https://www.linkedin.com/in/ishan-kanishka-9269a4274/" target="_blank">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-**Open to collaborating or discussing opportunities — reach out on LinkedIn or open an issue on one of my repos.**
+<br><br>
 
-⭐ *Thanks for visiting — feel free to explore my projects!*
+**Building the bridge between physical operations and digital systems.**
 
 </div>
