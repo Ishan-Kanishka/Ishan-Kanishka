@@ -4,7 +4,7 @@
 
 ### Supply Chain Operations · Logistics · Inventory · Data & Process Improvement
 
-**Supply Chain Professional | IT Undergraduate | Building Data-Driven Logistics Solutions**
+**Supply Chain Professional | Building Data-Driven Logistics Solutions**
 
 <a href="https://www.linkedin.com/in/ishan-kanishka-9269a4274/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
