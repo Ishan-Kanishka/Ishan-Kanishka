@@ -257,3 +257,13 @@ I'm always interested in connecting with professionals working in **supply chain
 **Building the bridge between physical operations and digital systems.**
 
 </div>
+<h2 align="center">⚡ Contribution Journey ⚡</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Ishan-Kanishka/Ishan-Kanishka/output/transformer-contribution-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Ishan-Kanishka/Ishan-Kanishka/output/transformer-contribution.svg">
+  <img alt="Ishan Kanishka contribution animation"
+       src="https://raw.githubusercontent.com/Ishan-Kanishka/Ishan-Kanishka/output/transformer-contribution.svg">
+</picture>
