@@ -42,19 +42,45 @@ I'm a **Supply Chain & Operations professional** with hands-on experience in war
 
 **Supply Chain & Analytics**
 
-`ERP` · `Excel` · `Power BI` · `Tableau` · `Inventory Management` · `Warehouse Operations`
+<p>
+  <img src="https://img.shields.io/badge/ERP-0B5394?style=for-the-badge&logo=buffer&logoColor=white" height="32" title="ERP" alt="ERP"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="32" title="Excel" alt="Excel"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="32" title="Power BI" alt="Power BI"/>
+  <img src="https://cdn.simpleicons.org/tableau/E97627" height="32" title="Tableau" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Inventory-Management-5B9BD5?style=for-the-badge&logo=box&logoColor=white" height="32" title="Inventory Management" alt="Inventory Management"/>
+  <img src="https://img.shields.io/badge/Warehouse-Operations-795548?style=for-the-badge&logo=probot&logoColor=white" height="32" title="Warehouse Operations" alt="Warehouse Operations"/>
+</p>
 
 **Data & GIS**
 
-`SQL` · `PostgreSQL` · `MySQL` · `PostGIS` · `QGIS` · `Pandas` · `Jupyter`
+<p>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" title="SQL / MySQL" alt="SQL / MySQL"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" title="PostgreSQL" alt="PostgreSQL"/>
+  <img src="https://cdn.simpleicons.org/postgis/336791" height="40" title="PostGIS" alt="PostGIS"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" height="32" title="QGIS" alt="QGIS"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" title="Pandas" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" title="Jupyter" alt="Jupyter"/>
+</p>
 
 **Programming**
 
-`Python` · `Java` · `JavaScript` · `R` · `C++`
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=r" height="40" title="R" alt="R"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" title="C++" alt="C++"/>
+</p>
 
 **Development & Productivity**
 
-`Git` · `GitHub` · `IntelliJ IDEA` · `PyCharm` · `VS Code`
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=idea" height="40" title="IntelliJ IDEA" alt="IntelliJ IDEA"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" title="PyCharm" alt="PyCharm"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" alt="VS Code"/>
+</p>
 
 ---
 
