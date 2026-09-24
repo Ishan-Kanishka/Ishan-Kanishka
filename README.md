@@ -23,7 +23,7 @@ I'm a **Supply Chain & Operations professional** with hands-on experience in war
 * 👥 Coordinated day-to-day activities with **18+ warehouse staff**
 * 🚛 Experience across **receiving, storage, picking, dispatch, returns & deliveries**
 * 📊 Interested in **Supply Chain Analytics, Process Improvement & Digital Supply Chains**
-* 🎓 BSc (Hons) IT undergraduate — applying technology to real operational problems
+* 🎓 BSc (Hons) Information System Engineering undergraduate — applying technology to real operational problems
 
 ---
 
