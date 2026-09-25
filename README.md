@@ -29,7 +29,7 @@ I'm a **Supply Chain & Operations professional** with hands-on experience in war
 
 ## 🚀 Featured Projects
 
-| Project                            | Focus                                                               |
+| Project                             | Focus                                                               |
 | ---------------------------------- | ------------------------------------------------------------------- |
 | 🗺️ **ReliefMap**                  | GIS · Humanitarian Logistics · PostgreSQL · PostGIS · QGIS · Python |
 | 📊 **Inventory Failure Analysis**  | Supply Chain Analytics · Power BI · Inventory KPIs                  |
