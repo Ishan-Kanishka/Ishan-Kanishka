@@ -1,7 +1,7 @@
 <div align="center">
   
 # V K Ishan Kanishka                                                
- 
+  
 ### Supply Chain Management · Logistics · Operations
 
 **Combining hands-on supply chain experience with data & technology.**
