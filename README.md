@@ -15,30 +15,30 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I'm a **Supply Chain & Operations professional** with hands-on experience in warehouse operations, inventory management, logistics coordination and ERP-based processes.
 
-* 📦 Experience supporting operations involving **3,000+ SKUs**
-* 👥 Coordinated day-to-day activities with **18+ warehouse staff**
-* 🚛 Experience across **receiving, storage, picking, dispatch, returns & deliveries**
-* 📊 Interested in **Supply Chain Analytics, Process Improvement & Digital Supply Chains**
-* 🎓 BSc (Hons) Information System Engineering undergraduate — applying technology to real operational problems
+*  Experience supporting operations involving **3,000+ SKUs**
+*  Coordinated day-to-day activities with **18+ warehouse staff**
+*  Experience across **receiving, storage, picking, dispatch, returns & deliveries**
+*  Interested in **Supply Chain Analytics, Process Improvement & Digital Supply Chains**
+*  BSc (Hons) Information System Engineering undergraduate — applying technology to real operational problems
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project                             | Focus                                                               |
 | ---------------------------------- | ------------------------------------------------------------------- |
-| 🗺️ **ReliefMap**                  | GIS · Humanitarian Logistics · PostgreSQL · PostGIS · QGIS · Python |
-| 📊 **Inventory Failure Analysis**  | Supply Chain Analytics · Power BI · Inventory KPIs                  |
-| 🚛 **Transport Management System** | Transport Operations · Java · Spring Boot · MySQL                   |
-| ⚙️ **File Organizer**              | Workflow Automation · Electron · JavaScript                         |
+|  **ReliefMap**                  | GIS · Humanitarian Logistics · PostgreSQL · PostGIS · QGIS · Python |
+|  **Inventory Failure Analysis**  | Supply Chain Analytics · Power BI · Inventory KPIs                  |
+|  **Transport Management System** | Transport Operations · Java · Spring Boot · MySQL                   |
+|  **File Organizer**              | Workflow Automation · Electron · JavaScript                         |
 
 ---
 
-## 🛠️ Toolkit
+##  Toolkit
 
 **Supply Chain & Analytics**
 
