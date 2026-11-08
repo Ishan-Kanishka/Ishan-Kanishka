@@ -29,12 +29,12 @@ I'm a **Supply Chain & Operations professional** with hands-on experience in war
 
 ### Experience
 
-#### Maritime Operations — RAKS INTERNATIONAL PTE LTD
+#### Operations Executive — RAKS INTERNATIONAL PTE LTD
 **Singapore · October 2026 — Present**
 
 Maritime operations in Singapore.
 
-#### Ceylon Dubhe (PVT) LTD
+#### Warehouse Keeper — Ceylon Dubhe (PVT) LTD
 **Colombo, Sri Lanka · January 2026 — September 2026**
 
 Warehouse operations and logistics.
