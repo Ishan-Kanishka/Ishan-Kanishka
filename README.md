@@ -1,8 +1,8 @@
 <div align="center">
-                                                                      
-# V K Ishan Kanishka
-        
-### Supply Chain Management · Logistics · Operations 
+
+## V K Ishan Kanishka
+
+### Supply Chain Management · Logistics · Operations
 
 **Combining hands-on supply chain experience with data & technology.**
 
@@ -15,31 +15,38 @@
 
 ---
 
-## About Me
+### About Me
 
 I'm a **Supply Chain & Operations professional** with hands-on experience in warehouse operations, inventory management, logistics coordination and ERP-based processes.
 
-* Experience supporting operations involving **3,000+ SKUs**
-* Coordinated day-to-day activities with **18+ warehouse staff**
-* Experience across **receiving, storage, picking, dispatch, returns & deliveries**
-* Interested in **Supply Chain Analytics, Process Improvement & Digital Supply Chains**
-* BSc (Hons) Information System Engineering undergraduate — applying technology to real operational problems
+- Experience supporting operations involving **3,000+ SKUs**
+- Coordinated day-to-day activities with **18+ warehouse staff**
+- Experience across **receiving, storage, picking, dispatch, returns & deliveries**
+- Interested in **Supply Chain Analytics, Process Improvement & Digital Supply Chains**
+- BSc (Hons) Information System Engineering undergraduate — applying technology to real operational problems
 
 ---
 
-## Experience
+### Experience
 
-### Maritime Operations — RAKS INTERNATIONAL PTE LTD
+#### Maritime Operations — RAKS INTERNATIONAL PTE LTD
 **Singapore · October 2026 — Present**
 
 Maritime operations in Singapore.
 
-### Ceylon Dubhe (PVT) LTD
+#### Ceylon Dubhe (PVT) LTD
 **Colombo, Sri Lanka · January 2026 — September 2026**
----
-Warehouse operations and logistics. 
 
-## Featured Projects
+Warehouse operations and logistics.
+
+#### Software Engineering Intern — Infinity AI
+**September 2025 — March 2026 · Remote**
+
+Software engineering internship experience in a remote technical environment.
+
+---
+
+### Featured Projects
 
 | Project | Focus |
 | --- | --- |
@@ -50,7 +57,7 @@ Warehouse operations and logistics.
 
 ---
 
-## Toolkit
+### Toolkit
 
 **Supply Chain & Analytics**
 
