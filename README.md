@@ -34,7 +34,10 @@ I'm a **Supply Chain & Operations professional** with hands-on experience in war
 
 Maritime operations in Singapore.
 
+### Ceylon Dubhe (PVT) LTD
+**Colombo, Sri Lanka · January 2026 — September 2026**
 ---
+Warehouse operations and logistics. 
 
 ## Featured Projects
 
